@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo\nMemo</string>
+
+    <string name="btn_ok">OK</string>
+    <string name="title_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="delete_title">Are you sure you want to Delete?</string>
+    <string name="delete_message">"This operation cannot be revocable, Please press 'Yes' to continue"</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_item_description">No items in the inventory.\nTap + to add!</string>
+
+</resources>
